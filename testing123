@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World</title>
+<link rel="stylesheet" type = "text/css" href = "testingcolors.css">
+</head>
+
+
+<body>
+  <p> HTML Buttons are defined with the button tag: </p>
+  <button>Click here! </button>
+  <h1 style="color:blue">My first  H1</h1>
+  <h2>My first  H2</h2>
+  <h3>My first  H3</<h3>
+  <h4>My first  H4</h4>
+  <h5>My first  H5</h5>
+  <h6>My first  H6</h6>
+
+  <a href="https://en.wikipedia.org/wiki/Puppy"> This is a link to Puppy</a>
+
+  <img src="wings.jpg" alt="delish.com" width="500" height="500">
+<iframe width="300" height="200" src="https://www.youtube.com/embed/mRf3-JkwqfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<audio controls>
+  <source src="lynch.ogg" type="audio/ogg">
+  <source src="lynch.mp3" type="audio/mpeg">
+
+  <p> Hello World</p>
+  <ul>
+    <li>Coffee</li>
+    <li>Milk</li>
+    <li>Tea</li>
+    <li>Unorderd List are bullets
+  </ul>
+
+  <ol>
+    <ol>1. Cali</ol>
+    <ol>2. America</ol>
+    <ol>3. Junior</ol>
+    <ol>4. Ordered List/Numbers</ol>
+  </ol>
+
+  <body style="background-color:##a9bbdb;">
+
+
+
+</body>
+</html>
